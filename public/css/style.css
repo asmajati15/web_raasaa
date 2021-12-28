@@ -1,0 +1,44 @@
+.navbar {
+    align-content: center;
+}
+
+.carousel-item img {
+    margin-top: -20%; 
+    margin-bottom: -10%;
+}
+
+.reslogo {
+    padding-bottom: 15%;
+}
+
+.food-filter .button {
+    background-color: transparent;
+    border: 0;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.button:hover {
+    text-decoration: solid;
+    color: black;
+    border-bottom: 3px solid goldenrod;
+}
+
+.button.active {
+    text-decoration: solid;
+    color: black;
+    border-bottom: 3px solid goldenrod;
+}
+
+.card img {
+    width: 100%;
+    height: 266px;
+    object-fit: cover;
+ }
+
+.card-body span {
+    color: goldenrod;
+}
+
+.card-body {
+    vertical-align: middle;
+}
